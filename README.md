@@ -3,12 +3,11 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 > Bookstore is an app that allows you to :
-- create new book that should conatin a tilte, author
-- choose a categorie
+- create a new book that should contain a title, author
+- choose a category
 - display list of books
 - update progress
 - delete a book
-
 
 ![](https://github.com/vic778/Bookstore/blob/add-remove/src/screenshot/screen4.png)
 
