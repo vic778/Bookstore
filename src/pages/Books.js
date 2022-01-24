@@ -8,6 +8,9 @@ const Books = () => (
     <div style={{ padding: '10px 50px' }}>
       <BookContainer />
       <InputBook />
+      <div>
+        <button type="submit" placeholder="delete">Delete</button>
+      </div>
     </div>
   </div>
 
