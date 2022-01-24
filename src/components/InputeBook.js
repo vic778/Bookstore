@@ -9,6 +9,7 @@ const InputeBook = () => (
     <div>
       <form style={{ display: 'flex', alignItems: 'center' }}>
         <input type="test" placeholder="Book Title" />
+        <input type="test" placeholder="Author" />
         <Select />
         <Button type="submit" text="ADD BOOK" />
       </form>
