@@ -5,9 +5,9 @@
 > Bookstore is an app that allows you to display a list of added books, add new book and remove a book. It is built using React, Redux ...
 
 
-![](https://github.com/vic778/Bookstore/blob/setup-project/src/screenshot/screen1.png)
+![](https://github.com/vic778/Bookstore/blob/styles/src/screenshot/screen5.png)
 
-![](https://github.com/vic778/Bookstore/blob/setup-project/src/screenshot/screen2.png)
+![](https://github.com/vic778/Bookstore/blob/styles/src/screenshot/screen6.png)
 ## Built With
 
 - React
