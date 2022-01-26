@@ -2,12 +2,17 @@
 
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-> Bookstore is an app that allows you to display a list of added books, add new book and remove a book. It is built using React, Redux ...
+> Bookstore is an app that allows you to :
+- create a new book that should contain a title, author
+- choose a category
+- display list of books
+- update progress
+- delete a book
 
 
-![](https://github.com/vic778/Bookstore/blob/setup-project/src/screenshot/screen1.png)
+![](https://github.com/vic778/Bookstore/blob/styles/src/screenshot/screen5.png)
 
-![](https://github.com/vic778/Bookstore/blob/setup-project/src/screenshot/screen2.png)
+![](https://github.com/vic778/Bookstore/blob/styles/src/screenshot/screen6.png)
 ## Built With
 
 - React
@@ -15,7 +20,7 @@
 - localStorage
 ## Live Demo
 
-[Live Demo Link]()
+[Live Demo Link](https://render-book.netlify.app/)
 
 ## Author 1
 
